@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ticket to Ride - 2 Player Score Keeper</string>
+    <string name="player_1">Player 1</string>
+    <string name="null_value">0</string>
+    <string name="_1_train_car">1 Train car</string>
+    <string name="_2_train_cars">2 train cars</string>
+    <string name="_3_train_cars">3 train cars</string>
+    <string name="_4_train_cars">4 train cars</string>
+    <string name="_5_train_cars">5 train cars</string>
+    <string name="_6_train_cars">6 train cars</string>
+    <string name="player_2">Player 2</string>
+    <string name="reset">reset</string>
+</resources>
